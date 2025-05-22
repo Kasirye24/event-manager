@@ -1,2 +1,2 @@
-# my-php-setup-template
-My PHP Starter template
+# Exhibition Ticket and Attendance Management System
+Streamlining Entry, Simplifying Experience.
